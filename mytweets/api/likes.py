@@ -81,7 +81,7 @@ class MyLikes:
             if not collect_all:
                 stop = True
         
-        return response.json()
+        return liked_tweets
 
     def get_my_likes(self):
         url = self.__create_url(user_id=self.user_id)
