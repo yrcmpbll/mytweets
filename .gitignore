@@ -2,7 +2,7 @@
 *.lock
 twconfig*
 *.vscode
-
+*.dump
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,visualstudiocode,linux
